@@ -1,6 +1,6 @@
 # Prolyz
 
-**Built for decisions, not dashboards.**
+**Meet your company's Decision Brain**
 
 Prolyz is an enterprise data platform that covers the whole path from source systems to a decision:
 ingestion, governance, analytics and causal reasoning in one governed product, deployable inside
