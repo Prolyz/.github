@@ -80,4 +80,5 @@ Prolyz product repositories are private. This organization is public for identit
 - Web: [prolyz.com](https://prolyz.com) · Email: [hello@prolyz.com](mailto:hello@prolyz.com)
 - [LinkedIn](https://www.linkedin.com/company/prolyz) · [X](https://x.com/prolyz) ·
   [G2](https://www.g2.com/products/prolyz/reviews) · [Capterra](https://www.capterra.com/p/10182050/Prolyz/) ·
-  [Crunchbase](https://www.crunchbase.com/organization/prolyz) · [Product Hunt](https://www.producthunt.com/products/prolyz)
+  [Crunchbase](https://www.crunchbase.com/organization/prolyz) · [Product Hunt](https://www.producthunt.com/products/prolyz) ·
+  [Trustpilot](https://www.trustpilot.com/review/prolyz.com)
